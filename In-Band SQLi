@@ -1,0 +1,7 @@
+# In-band SQLi (Classic SQLi) : 
+In-band SQL Injection is the most common and easy-to-exploit of SQL Injection attacks. In-band SQL Injection occurs when an attacker is able to use the same communication channel to both launch the attack and gather results. The two most common types of in-band SQL Injection are Error-based SQLi and Union-based SQLi.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Bant İçi SQLi (Klasik SQLi):
+Bant İçi SQL Enjeksiyonu, SQL Enjeksiyon saldırılarının en yaygın ve kullanımı kolay olanıdır. Bant İçi SQL Enjeksiyonu, bir saldırgan hem saldırıyı başlatmak hem de sonuçları toplamak için aynı iletişim kanalını kullanabildiğinde gerçekleşir. En yaygın iki bant içi SQL Enjeksiyonu türü, Hata tabanlı SQLi ve Birlik tabanlı SQLi'dir.
