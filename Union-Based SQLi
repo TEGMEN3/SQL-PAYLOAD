@@ -1,0 +1,7 @@
+# Union-based SQLi : #
+Union-based SQLi is an in-band SQL injection technique that leverages the UNION SQL operator to combine the results of two or more SELECT statements into a single result which is then returned as part of the HTTP response.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Birlik tabanlı SQLi : #
+Birlik tabanlı SQLi, iki veya daha fazla SELECT ifadesinin sonuçlarını daha sonra HTTP yanıtının bir parçası olarak döndürülen tek bir sonuç içinde birleştirmek için UNION SQL operatöründen yararlanan bir bant içi SQL enjeksiyon tekniğidir.
