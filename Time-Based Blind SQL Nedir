@@ -3,3 +3,10 @@ Time-based SQL Injection is an inferential SQL Injection technique that relies o
 The response time will indicate to the attacker whether the result of the query is TRUE or FALSE. 
 epending on the result, an HTTP response will be returned with a delay, or returned immediately. 
 This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.
+
+
+Zamana Dayalı Kör SQLi : 
+Zamana Dayalı SQL Enjeksiyonu, veritabanına yanıt vermeden önce belirli bir süre (saniye cinsinden) beklemeye zorlayan bir SQL sorgusu göndermeye dayanan çıkarımsal bir SQL Enjeksiyon tekniğidir.
+Yanıt süresi, sorgu sonucunun DOĞRU veya YANLIŞ olup olmadığını saldırgana gösterecektir.
+sonuca bağlı olarak, bir HTTP yanıtı gecikmeli olarak veya hemen döndürülür. 
+Bu, bir saldırganın, veritabanından hiçbir veri döndürülmese bile, kullanılan yükün doğru mu yoksa yanlış mı döndürüldüğünü çıkarmasına olanak tanır.
