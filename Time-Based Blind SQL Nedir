@@ -1,0 +1,5 @@
+# Time-based Blind SQLi : 
+Time-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the database to wait for a specified amount of time (in seconds) before responding. 
+The response time will indicate to the attacker whether the result of the query is TRUE or FALSE. 
+epending on the result, an HTTP response will be returned with a delay, or returned immediately. 
+This allows an attacker to infer if the payload used returned true or false, even though no data from the database is returned.
